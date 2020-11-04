@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Plank Config
+GenericName=Dock config
+Comment=Stupidly simple.
+Categories=Utility;
+Type=Application
+Exec=plank --preferences
+Icon=plank
+Terminal=false
+NoDisplay=false
